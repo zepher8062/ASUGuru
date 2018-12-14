@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8773cd2-5c9e-4027-87db-70d91bbe8c29" name="Default" comment="" />
+    <list default="true" id="b8773cd2-5c9e-4027-87db-70d91bbe8c29" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ASUGuru.zip" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,34 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
               <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+              <folding>
+                <element signature="e#774#802#0" expanded="true" />
+                <element signature="e#2078#2101#0" expanded="true" />
+                <element signature="e#3028#3051#0" expanded="true" />
+                <element signature="e#3775#3798#0" expanded="true" />
+                <element signature="e#4757#4780#0" expanded="true" />
+                <element signature="e#5503#5526#0" expanded="true" />
+                <element signature="e#6482#6505#0" expanded="true" />
+                <element signature="e#7228#7251#0" expanded="true" />
+                <element signature="e#8204#8227#0" expanded="true" />
+                <element signature="e#8950#8973#0" expanded="true" />
+                <element signature="e#9911#9934#0" expanded="true" />
+                <element signature="e#10657#10680#0" expanded="true" />
+                <element signature="e#11631#11654#0" expanded="true" />
+                <element signature="e#12378#12401#0" expanded="true" />
+                <element signature="e#13343#13366#0" expanded="true" />
+                <element signature="e#14089#14112#0" expanded="true" />
+                <element signature="e#15065#15088#0" expanded="true" />
+                <element signature="e#15811#15834#0" expanded="true" />
+                <element signature="e#16774#16797#0" expanded="true" />
+                <element signature="e#17520#17543#0" expanded="true" />
+                <element signature="e#18481#18504#0" expanded="true" />
+                <element signature="e#19228#19251#0" expanded="true" />
+                <element signature="e#20190#20213#0" expanded="true" />
+                <element signature="e#20937#20960#0" expanded="true" />
+                <element signature="e#21914#21937#0" expanded="true" />
+                <element signature="e#22788#22812#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
@@ -68,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alluciam/asugururibbons/RibbonActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1421">
-              <caret line="102" column="17" lean-forward="true" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+              <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -2598,7 +2628,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alluciam/asugururibbons/RibbonActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1421">
-          <caret line="102" column="17" lean-forward="true" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -2613,6 +2643,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+          <folding>
+            <element signature="e#774#802#0" expanded="true" />
+            <element signature="e#2078#2101#0" expanded="true" />
+            <element signature="e#3028#3051#0" expanded="true" />
+            <element signature="e#3775#3798#0" expanded="true" />
+            <element signature="e#4757#4780#0" expanded="true" />
+            <element signature="e#5503#5526#0" expanded="true" />
+            <element signature="e#6482#6505#0" expanded="true" />
+            <element signature="e#7228#7251#0" expanded="true" />
+            <element signature="e#8204#8227#0" expanded="true" />
+            <element signature="e#8950#8973#0" expanded="true" />
+            <element signature="e#9911#9934#0" expanded="true" />
+            <element signature="e#10657#10680#0" expanded="true" />
+            <element signature="e#11631#11654#0" expanded="true" />
+            <element signature="e#12378#12401#0" expanded="true" />
+            <element signature="e#13343#13366#0" expanded="true" />
+            <element signature="e#14089#14112#0" expanded="true" />
+            <element signature="e#15065#15088#0" expanded="true" />
+            <element signature="e#15811#15834#0" expanded="true" />
+            <element signature="e#16774#16797#0" expanded="true" />
+            <element signature="e#17520#17543#0" expanded="true" />
+            <element signature="e#18481#18504#0" expanded="true" />
+            <element signature="e#19228#19251#0" expanded="true" />
+            <element signature="e#20190#20213#0" expanded="true" />
+            <element signature="e#20937#20960#0" expanded="true" />
+            <element signature="e#21914#21937#0" expanded="true" />
+            <element signature="e#22788#22812#0" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-designer2">

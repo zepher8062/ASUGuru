@@ -101,7 +101,7 @@ public class RibbonActivity extends AppCompatActivity {
                         xMarksTheSpot = (2 * ribbonWidth) - (ribbonWidth / amountOfRibbonsInTopRow);
                     printedRows++;
                 }
-// ============== Let's do a loop from most unimportant ribbon number totalAmountOfRibbons to the most important ribbon number 1  ============
+// ============== Let's do a loop from most unimportant ribbon number totalAmountOfRibbons to the most important ribbon numer 1  ============
 // =============== because we are building the rack from bottom to top =======================================================
                 for (int looppi = totalAmountOfRibbons; looppi > 0; looppi--) {
                     if (ribbonCheckVariable[looppi] == 1) {

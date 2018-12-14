@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/menubutton001"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:onClick="openRackBuilder"
+                android:text="@string/menubutton001"
+                android:textAlignment="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!--  MORE BUTTONS FOR FUTURE FEATURES  -->
+
+            <Button
+                android:id="@+id/menubutton002"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/menubutton002"
+                app:layout_constraintEnd_toEndOf="@+id/menubutton001"
+                app:layout_constraintStart_toStartOf="@+id/menubutton001"
+                app:layout_constraintTop_toBottomOf="@+id/menubutton001" />
+
+            <Button
+                android:id="@+id/menubutton003"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/menubutton003"
+                app:layout_constraintEnd_toEndOf="@+id/menubutton002"
+                app:layout_constraintStart_toStartOf="@+id/menubutton002"
+                app:layout_constraintTop_toBottomOf="@+id/menubutton002" />
+
+            <Button
+                android:id="@+id/menubutton004"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/menubutton004"
+                app:layout_constraintEnd_toEndOf="@+id/menubutton003"
+                app:layout_constraintStart_toStartOf="@+id/menubutton003"
+                app:layout_constraintTop_toBottomOf="@+id/menubutton003" />
+
+
+
+
+        </android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

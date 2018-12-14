@@ -11,88 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8773cd2-5c9e-4027-87db-70d91bbe8c29" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/ASUGuruRibbons.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/build/outputs/apk/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/androidTest/java/com/alluciam/asugururibbons/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/java/com/alluciam/asugururibbons/MenuActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/java/com/alluciam/asugururibbons/RibbonActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/army_distinguished_service_cross_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/army_distinguished_service_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/bronze_star_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/defense_distinguished_service_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/defense_meritorious_service_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/defense_superior_service_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/distinguished_flying_cross_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/legion_of_merit_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/medal_of_honor_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/purple_heart_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/silver_star_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/drawable/soldier_medal_ribbon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/layout/activity_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/layout/activity_ribbon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/app/src/test/java/com/alluciam/asugururibbons/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASUGuruRibbons/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/divinefury/corp/asuguru/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/divinefury/corp/asuguru/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/aam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/agcm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/arcom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/asr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/certificateofmerit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/distinguisedservicecross.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/gwotsm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/kdsm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/medalofhonor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ncopd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ndsm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/osr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/divinefury/corp/asuguru/ExampleUnitTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b8773cd2-5c9e-4027-87db-70d91bbe8c29" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2634,7 +2553,7 @@
       <window_info id="Build Variants" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Preview" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -2643,7 +2562,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />

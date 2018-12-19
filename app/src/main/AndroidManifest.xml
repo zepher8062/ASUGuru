@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.alluciam.asugururibbons">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:remove="android:maxSdkVersion"
+        tools:node="replace" />
 
     <application
         android:allowBackup="true"
@@ -10,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-<!--   ============= here starts Menu Activity ======================== -->
+        <!-- ============= here starts Menu Activity ======================== -->
         <activity android:name=".MenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,14 +23,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
- <!--     ========here starts ribbon activity ==================== -->
-        <activity android:name=".RibbonActivity"
-            android:parentActivityName=".MenuActivity">
-            <!-- The meta-data tag is required if you support API level 15 and lower -->
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MenuActivity" />
-            </activity>
+        <!-- ========here starts ribbon activity ==================== -->
+        <!-- ============= here start the Profile activity where you choose a profile to be edited ========== -->
+        <activity
+            android:name=".ProfileActivity"
+            android:parentActivityName=".MenuActivity" />
+        <!-- ============= here start the ChooseUniformProfile activity that checks if you have a profile file ========== -->
+        <activity
+            android:name=".ChooseUniformProfile"
+            android:parentActivityName=".MenuActivity" />
+        <!-- ============= here start the Profile Editor activity that saves the Profile file ========== -->
+        <activity
+            android:name=".ProfileEditor"
+            android:parentActivityName=".ProfileActivity" />
+         <!-- ============= here starts the activity that loads the profile1.txt and reads it and draws images -->
+        <activity
+            android:name=".UniformDrawer"
+            android:parentActivityName=".ChooseUniformProfile" />
+
+
     </application>
 
 </manifest>

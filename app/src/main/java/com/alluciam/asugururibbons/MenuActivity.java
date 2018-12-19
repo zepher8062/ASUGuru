@@ -3,24 +3,38 @@ package com.alluciam.asugururibbons;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MotionEvent;
+import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.widget.ImageView;
 
 public class MenuActivity extends AppCompatActivity {
+
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
+
+
     }
 
     /** Called when the user taps the ribbon builder button */
-    public void openRackBuilder(View view) {
+    public void openUniformChooser(View view) {
         Intent intent;
-        intent = new Intent(this, RibbonActivity.class);
-       // nämä ylimääräiset tekstit ovat jäänteitä Android Studion tutoriaalista, jossa käyttäjän antama teksti siirrettiin button-painalluksen mukana toiseen activityyn intentillä
-        //      EditText editText = (EditText) findViewById(R.id.editText);
-        //     String message = editText.getText().toString()+firstRibbon;
-        //     intent.putExtra(EXTRA_MESSAGE, message);
+        intent = new Intent(this, ChooseUniformProfile.class);
+        startActivity(intent);
+
+    }
+
+    /** Called when the user taps the Profile editor button */
+    public void openProfileEditor(View view) {
+        Intent intent;
+        intent = new Intent(this, ProfileActivity.class);
         startActivity(intent);
 
     }

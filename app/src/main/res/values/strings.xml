@@ -1,14 +1,17 @@
 <resources>
     <string name="app_name">ASUGuru</string>
-    <string name="menubutton001">Build your ribbon rack</string>
-    <string name="menubutton002">Feature2 unavailable</string>
-    <string name="menubutton003">Feature3 unavailable</string>
-    <string name="menubutton004">Feature4 unavailable</string>
+    <string name="menubutton001">Profile Editor</string>
+    <string name="menubutton002">Show uniform</string>
+    <string name="menubutton003">-nothing in here-</string>
+    <string name="textPA000">Choose a profile to be edited: (this will reset the profile)</string>
+    <string name="textPL000">Choose a profile for the uniform:</string>
+    <string name="buttonPA1">Profile #1:</string>
+    <string name="buttonPA2">Profile #2:</string>
     <string name="text_which_ribbons">Select which ribbons you have</string>
     <string name="textribbon001">Medal of Honor</string>
-    <string name="textribbon002">Army Dinstinguished Service Cross</string>
-    <string name="textribbon003">Defense Dinstinguished Service</string>
-    <string name="textribbon004">Army Dinstinguished Service</string>
+    <string name="textribbon002">Army Distinguished Service Cross</string>
+    <string name="textribbon003">Defense Distinguished Service</string>
+    <string name="textribbon004">Army Distinguished Service</string>
     <string name="textribbon005">Silver Star</string>
     <string name="textribbon006">Defense Superior Service</string>
     <string name="textribbon007">Legion of Merit</string>
@@ -18,4 +21,5 @@
     <string name="textribbon011">Purple Heart</string>
     <string name="textribbon012">Defense Meritorious Service</string>
     <string name="buttonShowRack">Show rack layout</string>
-    </resources>
+    <string name="buttonSaveProfile">Save this profile</string>
+</resources>

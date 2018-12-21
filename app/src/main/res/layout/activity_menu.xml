@@ -19,19 +19,31 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
+            <ImageView
+                android:id="@+id/imageViewMenuLogo"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/logo2" />
+
             <Button
                 android:id="@+id/menubutton001"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
-                android:onClick="openRackBuilder"
+                android:onClick="openProfileEditor"
                 android:text="@string/menubutton001"
                 android:textAlignment="center"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toBottomOf="@+id/imageViewMenuLogo" />
 
             <!--  MORE BUTTONS FOR FUTURE FEATURES  -->
 
@@ -40,6 +52,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
+                android:onClick="openUniformChooser"
                 android:text="@string/menubutton002"
                 app:layout_constraintEnd_toEndOf="@+id/menubutton001"
                 app:layout_constraintStart_toStartOf="@+id/menubutton001"
@@ -55,18 +68,7 @@
                 app:layout_constraintStart_toStartOf="@+id/menubutton002"
                 app:layout_constraintTop_toBottomOf="@+id/menubutton002" />
 
-            <Button
-                android:id="@+id/menubutton004"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="@string/menubutton004"
-                app:layout_constraintEnd_toEndOf="@+id/menubutton003"
-                app:layout_constraintStart_toStartOf="@+id/menubutton003"
-                app:layout_constraintTop_toBottomOf="@+id/menubutton003" />
-
-
-
+            <!--     tools:srcCompat="@tools:sample/backgrounds/scenic" />  -->
 
         </android.support.constraint.ConstraintLayout>
     </LinearLayout>
